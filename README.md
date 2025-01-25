@@ -5,6 +5,6 @@
 - [Talk](01-design-manifesto/manifesto.pdf)
 
 **[02: First Impressions](02-first-impressions)**
-- [Digital Hi](02-first-impressions/Digital Hi.md)
+- [Digital Hi] (02-first-impressions/Digital Hi.md)
 - [About](02-first-impressions/about.md)
 - [Process](02-first-impressions/process.md)
