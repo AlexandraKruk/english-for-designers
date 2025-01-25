@@ -51,15 +51,19 @@ Task: create something creative. Successful: It get 1.8K views
 ## 2nd version.
 ### E-pravo
 This project was part of a school competition where we had to redesign the layout of a magazine for lawyers. The task was challenging because we needed to keep the style strict and clean, as expected in the legal field, but also make it more interesting and enjoyable for readers. We used a bright orange color to add some energy, putting it in the logo and key areas to catch attention. To make the chapters stand out, we gave their pages a light orange background. In the end, I animated the logo with a frendfull orange dot and worked with a 3D artist to create unique mockups.
+
 ### Nugatovnik
-The client asked me to create a logo for their chocolate shop. It had to be elegant and easy to remember. I combined the softness of chocolate with the first letter of the name, and that’s how we started working together. The name is written under the symbol in a simple, clean font. The colors are warm shades of brown, inspired by chocolate. I also designed banners and the online store.
+The client asked me to create a logo for their chocolate shop. It had to be elegant and easy to remember. I combined the softness of chocolate with the first letter of the name, and that’s how we started working together.The name is written under the symbol in a simple, clean font. The colors are warm shades of brown, inspired by chocolate. I also designed banners and the online store.
+
 ### Perconal longreed project 
 This is my personal design project, where I wanted to create something bright and bold. It ended up looking like game design or branding for a tech brand. The images were made with AI and edited in Photoshop to give them a futuristic feel. The neon lights and the armor on the character created a wow effect and got a lot of views. There are text clouds on the images, but they’re not important to read—the main goal is to feel the power of imagination.
 
 ## 3rd version.
 ### E-pravo
 A strict legal magazine needed a fresh look for a school competition. I added a burst of bright orange for energy. I kept the design clean and crisp. I highlighted each chapter with a subtle orange backdrop. I animated the logo with a friendly orange dot. Then, I worked with a 3D artist to create unique mockups. We balanced a serious style with a touch of flair.
+
 ### Nugatovnik
-The client wanted a memorable logo for a chocolate shop—elegant yet simple. I combined the softness of chocolate with the shop’s initial. I set the name underneath in a clean typeface. I chose warm brown tones inspired by cocoa. After finalizing the logo, I extended the design to banners and their online store. I wanted every touchpoint to feel sweet and inviting.
+The client wanted a memorable logo for a chocolate shop—elegant yet simple. I combined the softness of chocolate with the shop’s initial. I set the name underneath in a clean typeface. I chose warm brown tones inspired by cocoa. After finalizing the logo, I extended the design to banners and their online store.  wanted every touchpoint to feel sweet and inviting.
+
 ### Perconal longreed project 
 I aimed to create something bold and vibrant. It should merge a game-inspired look with the sleek energy of tech branding. The design, with AI images, neon lights, and futuristic armor, caught attention. It sparked curiosity. It got 1.8K views on Behance. It showed the power of imagination and boldness in every choice. 
