@@ -15,3 +15,5 @@ Let’s craft something exceptional together!
 ## 01: Redesign Visual Identity for layers magazine E-pravo
 2023 | Visual Identity | layout
 
+<img width="800" alt="Image 8" src="https://github.com/AlexandraKruk/english-for-designers/blob/main/02-first-impressions/assets.md/image%208.jpg">
+
