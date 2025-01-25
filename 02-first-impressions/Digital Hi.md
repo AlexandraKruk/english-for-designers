@@ -22,14 +22,14 @@ A strict legal magazine needed a fresh look for a school competition. I added a 
 ## 2: Вesign Visual Identity for brand Nugatovnik
 2024 | Visual Identity | Branding
 
-<img width="800" alt="Image 8" src="https://github.com/AlexandraKruk/english-for-designers/blob/main/02-first-impressions/assets.md/image%208.jpg">
+<img width="800" alt="Image 8-2" src="https://raw.githubusercontent.com/AlexandraKruk/english-for-designers/main/02-first-impressions/assets.md/image%208-2.jpg">
 
 The client wanted a memorable logo for a chocolate shop—elegant yet simple. I combined the softness of chocolate with the shop’s initial. I set the name underneath in a clean typeface. I chose warm brown tones inspired by cocoa. After finalizing the logo, I extended the design to banners and their online store.  wanted every touchpoint to feel sweet and inviting.
 
 ## 2: Вesigning Creative longread 
 2024 | Visual Identity | Branding
 
-<img width="800" alt="Image 8" src="https://github.com/AlexandraKruk/english-for-designers/blob/main/02-first-impressions/assets.md/image%208.jpg">
+<img width="800" alt="Image 8-1" src="https://raw.githubusercontent.com/AlexandraKruk/english-for-designers/main/02-first-impressions/assets.md/image%208-1.jpg">
 
 
 ### Perconal longreed project 
