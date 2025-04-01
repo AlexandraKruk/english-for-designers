@@ -8,6 +8,7 @@ Defining brand values, mood, and visual direction
 
 ## The Signature Mark
 Logo design process inspired by the taste and craft
+![Explikace](https://github.com/user-attachments/assets/93149205-332b-483f-89f0-00a9eb4d40d1)
 
 ## Blending Colors and Style
 Color palette, typography, and visual elements
