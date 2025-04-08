@@ -1,7 +1,12 @@
 Case Study Structure
 
-## The Recipe for the Brand
-Intro, background, and main challenge of the project
+## How easy is it to create a logo when you have no idea who it’s for?
+This is the most classic branding story: a client comes to you as a designer. Except — plot twist — you’ve never met them. Not even seen their face.
+How am I supposed to know what suits them? How can a logo be successful if I don’t know the target audience (crossed out) — I mean, the one who’s actually paying for it?
+(In my case, it's the agency, so yeah — they've technically already paid.)
+And then the project manager goes, "Our graphic designer (that’s me, lol) will make the most perfect, business-appropriate logo ever."
+Also, let’s not forget — this is the same business my client has been nurturing with love and care for the past three years. That’s not nothing.
+And that’s how the story began — the one that turned into the theme for my bachelor's thesis and became my most mature, grown-up piece of work so far.
 ![image 161](https://github.com/user-attachments/assets/708dc53a-a267-42c1-8d4c-f1657c82c1ff)
 
 ## Finding the Right Flavor
