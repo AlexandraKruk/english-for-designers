@@ -126,11 +126,16 @@ Care surrounds me every day:
 - **My husband opening water bottles for me**  
 - My best friend not getting mad at me being late (again)
 
+![Frame 3372](https://github.com/user-attachments/assets/ef6c52d2-e3d5-4e24-8b86-f83f9379f756)
+
 Sweets are the most innocent and pure way to say:
 > *I love you.*
 
 **I just want to give you a moment of carefree joy.**  
 Even if all I can do is gift you nougat — or remove a stain from your favorite shirt.
+
+![Frame 3357](https://github.com/user-attachments/assets/c1d28e73-1850-4fcf-a09f-3dee8f9ab294)
+
 
 ---
 
