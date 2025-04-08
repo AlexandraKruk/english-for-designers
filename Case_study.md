@@ -113,6 +113,45 @@ But hey — nobody can say this wasn’t real.
 
 ---
 
+## 5. Copy Love Story
+
+Pop the champagne! 🥂  
+The launch went great. We’ve even got photos.
+
+And that’s when the *copy love story* began.
+
+We give chocolate to those we love.  
+Care surrounds me every day:
+- The sincere support of a project manager  
+- **My husband opening water bottles for me**  
+- My best friend not getting mad at me being late (again)
+
+Sweets are the most innocent and pure way to say:
+> *I love you.*
+
+**I just want to give you a moment of carefree joy.**  
+Even if all I can do is gift you nougat — or remove a stain from your favorite shirt.
+
+---
+
+## 6. UX Designers Have Souls Too
+
+This project reminded me that:
+**Love = actions + time.**
+
+And I hope this text reminded *you* that even UX designers have souls.
+
+Now excuse me — I’ve got to go recolor buttons and tell the client their site won’t get into the  
+**Google Shopping feed** if they keep using white text on beige buttons.
+
+---
+
+
+
+
+
+
+
 
 ## Blending Colors and Style
 Color palette, typography, and visual elements
