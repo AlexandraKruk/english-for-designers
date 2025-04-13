@@ -13,7 +13,26 @@ Let’s not forget: this is the same business the client has been nurturing with
 
 And just like that, the story began — and became the core of my **bachelor's thesis** and probably my most grown-up, emotionally invested design job.
 
----
+&nbsp;  
+&nbsp;  
+&nbsp;  
+# Second draft version
+
+ How easy is it to create a logo when you don’t even know who it’s for?
+
+This is the most classic branding story: a client comes to you as a designer. Except — plot twist — you’ve never met them. Not even seen their face.  
+How am I supposed to know what suits them? How can a logo be successful if I don’t know the target audience ~~or~~ the one actually paying for it?
+
+> (In my case, it's the agency — so yeah, they’ve already paid.)
+
+And then the project manager says:
+> *"Our graphic designer (that’s me, lol) will make the most perfect, business-appropriate logo ever."*
+
+Let’s not forget: this is the same business the client has been nurturing with love and care for three years.  
+**That’s not nothing.**
+
+And just like that, the story began — and became the core of my **bachelor's thesis** and probably my most grown-up, emotionally invested design job.
+
 Inspiration smells like fresh ink
 
 So… truth time.  
@@ -147,13 +166,10 @@ Now excuse me — I’ve got to go recolor buttons and tell the client their sit
 **Google Shopping feed** if they keep using white text on beige buttons.
 
 ---
-
-
-
-
-
-
-Draft version
+&nbsp;  
+&nbsp;  
+&nbsp;  
+# Draft version
 
 ## Blending Colors and Style
 Color palette, typography, and visual elements
