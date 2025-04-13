@@ -1,7 +1,6 @@
  How easy is it to create a logo when you don’t even know who it’s for?
 
-This is the most classic branding story: a client comes to you as a designer.  
-Except — plot twist — you’ve never met them. Not even seen their face.  
+This is the most classic branding story: a client comes to you as a designer. Except — plot twist — you’ve never met them. Not even seen their face.  
 How am I supposed to know what suits them? How can a logo be successful if I don’t know the target audience ~~or~~ the one actually paying for it?
 
 > (In my case, it's the agency — so yeah, they’ve already paid.)
