@@ -31,7 +31,12 @@ I started studying the work of legendary designers.
 <img width="472" alt="Screenshot 2025-04-08 at 11 29 42" src="https://github.com/user-attachments/assets/da0919d6-8432-4219-9f9e-51a8ea26e1f4" />
 <img width="497" alt="Screenshot 2025-04-08 at 11 29 37" src="https://github.com/user-attachments/assets/5ce7ac9a-d6a9-44ec-b885-9c1810681df1" />
 
+> Their work didn’t just inspire me — it shaped how I approached my own visual language.
+
 ![Frame 3394](https://github.com/user-attachments/assets/ec53208f-1e52-43f2-8620-62bbe8558b50)
+&nbsp;&nbsp;&nbsp;&nbsp;**Concept 1** Inspired by Saul Bass and Op Art  
+&nbsp;&nbsp;&nbsp;&nbsp;**Concept 2** Inspired by M.C. Escher  
+&nbsp;&nbsp;&nbsp;&nbsp;**Concept 3** Selected concept influenced by the Art Deco style
 
 
 ## Chocolate ≠ Just Brown
@@ -45,17 +50,57 @@ Sure. But also… no.
 The competitors? Already drowning in brown. Some even *have* the golden tree (no judgment).  
 But me? I love contrast. Especially the kind that passes **WCAG AA+** accessibility checks.
 
-> *(Dear diary, the pain is real: when sunlight hits the screen and the client chose white text on a beige button. True story. Not sexy, guys.)*
-
 So yes — there *will* be brown.  
 But it’ll be dark, rich, bittersweet chocolate brown. Deep enough to care about.  
 No compromises.
+![16-Primární_barvy](https://github.com/user-attachments/assets/612f8629-faeb-451c-aee6-16dabc217863)
 
-![Happines](https://github.com/user-attachments/assets/f7a9d04f-c9a6-4164-837c-e2f8a14c7385)
+## UX & Midjourney Battle
+
+But here’s the real challenge:  
+**Chocolate melts. Especially in summer.**
+Okay, not a disaster — we added a clear banner about **Chilled Shipment**.  
+The nougat will arrive safe and sound. Promise.
+![Frame 2071](https://github.com/user-attachments/assets/e1f43f05-0f56-4a36-b749-d2759d3e4b62)
 
 
+Then came **Problem #2**:  
+No photos. Not a single behind-the-scenes peek.  
+Really hoping this isn’t some dropshipping operation out of China…
 
+So yeah — this turned into a full-on **Midjourney battle**.  
+Trying to recreate the warmth of handmade, with zero visuals to start from.
 
+![photo_6028205076788659848_y](https://github.com/user-attachments/assets/15381a1b-c5b5-407d-8d24-cf9e4fa5295f)
+
+![photo_6028205076788659847_y](https://github.com/user-attachments/assets/446e10fb-f053-4b16-88e5-c5b441c2626e)
+
+Those were our first attempts
+
+We spent over **8 hours** fine-tuning scenes like:  
+- Chocolate chips being poured into a stainless melter  
+- Temperature check in progress, chocolate mid-melt  
+- Liquid chocolate being spread and cooled on marble  
+- Filling polycarbonate molds with a perfect glossy stream
+
+Each step had to feel **real**, tactile, and calm —  
+no flat lighting, no plastic-looking gloves, no stock energy.
+It felt less like prompting and more like **directing a tiny film set**.
+![Frame 2663](https://github.com/user-attachments/assets/eb0d7357-8f70-4ac0-9e43-62e31bd3faee)
+
+## A Sweet Aftertaste
+
+Every detail matters — even after the product leaves the kitchen.
+
+The wrapping paper follows the same custom pattern found throughout the brand, creating a sense of continuity and care. Twine, wax stickers, and tactile textures were chosen to reflect the handmade character of the product.
+
+The gift bag? Subtle, but bold. Patterned, but balanced.  
+Designed to be part of the experience — not just to carry it.
+![image](https://github.com/user-attachments/assets/01ecd21e-b59a-4113-9ae1-8d6567c56250)
+![Shopping-Bag-Mockup-Vol6 1](https://github.com/user-attachments/assets/8f7df05c-feb2-46dc-b482-6d263027827d)
+
+### Wrapping the Treats
+This project showed me how much impact small design details can have.
 
 
 
