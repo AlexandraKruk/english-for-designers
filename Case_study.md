@@ -21,15 +21,37 @@ This was only the second time I ever reached for a truly insightful source of de
 📘 *Decoding Logos* — fresh off the press, filled with thoughtful analysis and beautiful typography.  
 [Highly recommended](https://www.google.com/search?q=Decoding+Logos%3A+From+Logo+Design+to+Branding%C2%A0&client=safari&sca_esv=103171e1811cae30&rls=en&sxsrf=AHTn8zqHqpizC3QGf_wwkS1jRizuz9fyjw%3A1744537317065&ei=5Yb7Z_zaA6uFxc8P_ZToqQg&ved=0ahUKEwi84dL429SMAxWrQvEDHX0KOoUQ4dUDCBA&uact=5&oq=Decoding+Logos%3A+From+Logo+Design+to+Branding%C2%A0&gs_lp=Egxnd3Mtd2l6LXNlcnAiLkRlY29kaW5nIExvZ29zOiBGcm9tIExvZ28gRGVzaWduIHRvIEJyYW5kaW5nwqAyBBAjGCcyBBAAGB4yBBAAGB4yBRAAGO8FMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FSJYaUPEXWPEXcAV4AJABAJgBVaABiwGqAQEyuAEDyAEA-AEC-AEBmAIGoAJ1wgIKEAAYsAMY1gQYR5gDAOIDBRIBMSBAiAYBkAYCkgcBNqAH5QiyBwExuAdd&sclient=gws-wiz-serp).
 
-![Decoding Logos](https://github.com/user-attachments/assets/89ccb56d-8d24-4b8e-83ed-44134ab2dc53)
+<img width="281" alt="Screenshot 2025-04-08 at 11 28 18" src="https://github.com/user-attachments/assets/89ccb56d-8d24-4b8e-83ed-44134ab2dc53" />
 
 It took time to truly understand how professionals *"steal like an artist."*  
 But sooner or later, whether through studio work — or just life — you find yourself drawn to the masters.
 
 I started studying the work of legendary designers.
-![Design Reference 1](https://github.com/user-attachments/assets/da0919d6-8432-4219-9f9e-51a8ea26e1f4)  
-![Design Reference 2](https://github.com/user-attachments/assets/5ce
 
+<img width="472" alt="Screenshot 2025-04-08 at 11 29 42" src="https://github.com/user-attachments/assets/da0919d6-8432-4219-9f9e-51a8ea26e1f4" />
+<img width="497" alt="Screenshot 2025-04-08 at 11 29 37" src="https://github.com/user-attachments/assets/5ce7ac9a-d6a9-44ec-b885-9c1810681df1" />
+
+![Frame 3394](https://github.com/user-attachments/assets/ec53208f-1e52-43f2-8620-62bbe8558b50)
+
+
+## Chocolate ≠ Just Brown
+
+Okay. Logo’s approved.  
+Now on to the “easy part”:  
+> *"Chocolate = brown and warm tones, right?"*
+
+Sure. But also… no.
+
+The competitors? Already drowning in brown. Some even *have* the golden tree (no judgment).  
+But me? I love contrast. Especially the kind that passes **WCAG AA+** accessibility checks.
+
+> *(Dear diary, the pain is real: when sunlight hits the screen and the client chose white text on a beige button. True story. Not sexy, guys.)*
+
+So yes — there *will* be brown.  
+But it’ll be dark, rich, bittersweet chocolate brown. Deep enough to care about.  
+No compromises.
+
+![Happines](https://github.com/user-attachments/assets/f7a9d04f-c9a6-4164-837c-e2f8a14c7385)
 
 
 
