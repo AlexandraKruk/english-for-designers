@@ -1,8 +1,7 @@
 
 # Nugátovník: It Started with a Logo
 *Hi, I’m Alexandra Kruk — and this story started with a small logo task that turned into a full branding journey. It’s about design, of course, but also about understanding the people behind the brand and learning through the process.*
-
-
+&nbsp;  
 ## How easy is it to create a logo when you don’t even know who it’s for?
 This is the most classic branding story: a client comes to you as a designer. Except — plot twist — you’ve never met them. Not even seen their face. How am I supposed to know what suits them? How can a logo be successful if I don’t know the target audience or the one actually paying for it?
 
@@ -12,7 +11,7 @@ And then the project manager says:
 > *"Our graphic designer (that’s me, lol) will make the most perfect, business-appropriate logo ever."*
 
 Let’s not forget: this is the same business the client has been nurturing with love and care for three years. That’s not nothing. And just like that, the story of a logo turned into a full-blown branding journey.
-
+&nbsp;  
 ## A Turning Point
 
 Let’s be honest.  
@@ -37,8 +36,7 @@ I started studying the work of legendary designers.
 &nbsp;&nbsp;&nbsp;&nbsp;**Concept 1** Inspired by Saul Bass and Op Art  
 &nbsp;&nbsp;&nbsp;&nbsp;**Concept 2** Inspired by M.C. Escher  
 &nbsp;&nbsp;&nbsp;&nbsp;**Concept 3** Selected concept influenced by the Art Deco style
-
-
+&nbsp;  
 ## Chocolate ≠ Just Brown
 
 Okay. Logo’s approved.  
@@ -54,7 +52,7 @@ So yes — there *will* be brown.
 But it’ll be dark, rich, bittersweet chocolate brown. Deep enough to care about.  
 No compromises.
 ![16-Primární_barvy](https://github.com/user-attachments/assets/612f8629-faeb-451c-aee6-16dabc217863)
-
+&nbsp;  
 ## UX & Midjourney Battle
 
 But here’s the real challenge:  
@@ -87,7 +85,7 @@ Each step had to feel **real**, tactile, and calm —
 no flat lighting, no plastic-looking gloves, no stock energy.
 It felt less like prompting and more like **directing a tiny film set**.
 ![Frame 2663](https://github.com/user-attachments/assets/eb0d7357-8f70-4ac0-9e43-62e31bd3faee)
-
+&nbsp;  
 ## A Sweet Aftertaste
 
 Every detail matters — even after the product leaves the kitchen.
@@ -98,7 +96,7 @@ The gift bag? Subtle, but bold. Patterned, but balanced.
 Designed to be part of the experience — not just to carry it.
 ![image](https://github.com/user-attachments/assets/01ecd21e-b59a-4113-9ae1-8d6567c56250)
 ![Shopping-Bag-Mockup-Vol6 1](https://github.com/user-attachments/assets/8f7df05c-feb2-46dc-b482-6d263027827d)
-
+&nbsp;  
 ### Wrapping the Treats
 This project showed me how much impact small design details can have.
 
