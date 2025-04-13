@@ -1,6 +1,4 @@
-Case Study Structure
-
-## 1. How easy is it to create a logo when you don’t even know who it’s for?
+ How easy is it to create a logo when you don’t even know who it’s for?
 
 This is the most classic branding story: a client comes to you as a designer.  
 Except — plot twist — you’ve never met them. Not even seen their face.  
@@ -17,7 +15,7 @@ Let’s not forget: this is the same business the client has been nurturing with
 And just like that, the story began — and became the core of my **bachelor's thesis** and probably my most grown-up, emotionally invested design job.
 
 ---
-## 2. Inspiration smells like fresh ink
+Inspiration smells like fresh ink
 
 So… truth time.  
 This was only the second time I ever opened a **real** source of design inspiration.
@@ -54,7 +52,7 @@ Meanwhile, I’ve got a nervous Project Manager behind me. Very human. Very real
 ![Frame 3394](https://github.com/user-attachments/assets/ec53208f-1e52-43f2-8620-62bbe8558b50)
 
 
-## 3. Chocolate ≠ Just Brown
+Chocolate ≠ Just Brown
 
 Okay. Logo’s approved.  
 Now on to the “easy part”:  
@@ -74,7 +72,7 @@ No compromises.
 ![Happines](https://github.com/user-attachments/assets/f7a9d04f-c9a6-4164-837c-e2f8a14c7385)
 
 ---
-## 4. Buttons & Broken Fingers
+Buttons & Broken Fingers
 
 Now for the *sweetest* part of the project: **buttons**.  
 (Because that’s what everyone thinks UXers do all day, right?)
@@ -113,7 +111,7 @@ But hey — nobody can say this wasn’t real.
 
 ---
 
-## 5. Copy Love Story
+Copy Love Story
 
 Pop the champagne! 🥂  
 The launch went great. We’ve even got photos.
@@ -139,7 +137,7 @@ Even if all I can do is gift you nougat — or remove a stain from your favorite
 
 ---
 
-## 6. UX Designers Have Souls Too
+UX Designers Have Souls Too
 
 This project reminded me that:
 **Love = actions + time.**
