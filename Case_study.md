@@ -1,4 +1,5 @@
- How easy is it to create a logo when you don’t even know who it’s for?
+Hi, I’m Alexandra Kruk — and this story started with a small logo task that turned into a full branding journey. It’s about design, of course, but also about understanding the people behind the brand and learning through the process.
+How easy is it to create a logo when you don’t even know who it’s for?
 
 This is the most classic branding story: a client comes to you as a designer. Except — plot twist — you’ve never met them. Not even seen their face.  
 How am I supposed to know what suits them? How can a logo be successful if I don’t know the target audience ~~or~~ the one actually paying for it?
