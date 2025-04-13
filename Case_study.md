@@ -13,6 +13,31 @@ And then the project manager says:
 
 Let’s not forget: this is the same business the client has been nurturing with love and care for three years. That’s not nothing. And just like that, the story of a logo turned into a full-blown branding journey.
 
+## A Turning Point
+
+Let’s be honest.  
+This was only the second time I ever reached for a truly insightful source of design knowledge.
+
+📘 *Decoding Logos* — fresh off the press, filled with thoughtful analysis and beautiful typography.  
+[Highly recommended](https://www.google.com/search?q=Decoding+Logos%3A+From+Logo+Design+to+Branding%C2%A0&client=safari&sca_esv=103171e1811cae30&rls=en&sxsrf=AHTn8zqHqpizC3QGf_wwkS1jRizuz9fyjw%3A1744537317065&ei=5Yb7Z_zaA6uFxc8P_ZToqQg&ved=0ahUKEwi84dL429SMAxWrQvEDHX0KOoUQ4dUDCBA&uact=5&oq=Decoding+Logos%3A+From+Logo+Design+to+Branding%C2%A0&gs_lp=Egxnd3Mtd2l6LXNlcnAiLkRlY29kaW5nIExvZ29zOiBGcm9tIExvZ28gRGVzaWduIHRvIEJyYW5kaW5nwqAyBBAjGCcyBBAAGB4yBBAAGB4yBRAAGO8FMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FSJYaUPEXWPEXcAV4AJABAJgBVaABiwGqAQEyuAEDyAEA-AEC-AEBmAIGoAJ1wgIKEAAYsAMY1gQYR5gDAOIDBRIBMSBAiAYBkAYCkgcBNqAH5QiyBwExuAdd&sclient=gws-wiz-serp).
+
+![Decoding Logos](https://github.com/user-attachments/assets/89ccb56d-8d24-4b8e-83ed-44134ab2dc53)
+
+It took time to truly understand how professionals *"steal like an artist."*  
+But sooner or later, whether through studio work — or just life — you find yourself drawn to the masters.
+
+I started studying the work of legendary designers.
+![Design Reference 1](https://github.com/user-attachments/assets/da0919d6-8432-4219-9f9e-51a8ea26e1f4)  
+![Design Reference 2](https://github.com/user-attachments/assets/5ce
+
+
+
+
+
+
+
+
+
 &nbsp;  
 &nbsp;  
 &nbsp;  
