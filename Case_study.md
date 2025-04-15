@@ -94,6 +94,7 @@ The wrapping paper follows the same custom pattern found throughout the brand, c
 
 The gift bag? Subtle, but bold. Patterned, but balanced.  
 Designed to be part of the experience — not just to carry it.
+
 ![image](https://github.com/user-attachments/assets/01ecd21e-b59a-4113-9ae1-8d6567c56250)
 ![Shopping-Bag-Mockup-Vol6 1](https://github.com/user-attachments/assets/8f7df05c-feb2-46dc-b482-6d263027827d)
 &nbsp;  
