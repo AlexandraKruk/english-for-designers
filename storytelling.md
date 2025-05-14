@@ -1,3 +1,4 @@
+[Prezentace.pdf](https://github.com/user-attachments/files/20213726/Prezentace.pdf)
 # Practicing Consistency  
 Alex Kruk, UX/UI Designer
 
@@ -14,6 +15,7 @@ My focus was always on designing spaces that work – even when no one notices t
 
 > If a structure works well, people won't notice it – they'll simply move through it.  
 > That's good design.
+
 
 One of my school projects was the redesign of a historical inner courtyard.  
 We had to integrate a modern elevator, preserve the architectural aesthetic, rethink pedestrian circulation, and create comfortable rest zones.
