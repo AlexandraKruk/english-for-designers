@@ -1,4 +1,4 @@
-[Home](../index.md)
+README.md
 
 # Alex Zheglova | [About Me](about.md)
 I'm Alex Zheglova, a curious **UI/UX designer** and **systems thinker**. I use creativity and empathy to create intuitive user experiences.
