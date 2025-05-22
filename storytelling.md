@@ -1,4 +1,4 @@
-[Uploading Practicing-Consistency.pdf…]()
+[Practicing-Consistency.pdf](https://github.com/user-attachments/files/20393736/Practicing-Consistency.pdf)
 
 # Practicing Consistency  
 Alex Kruk, UX/UI Designer
