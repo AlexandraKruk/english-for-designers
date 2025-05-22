@@ -1,4 +1,4 @@
-[Home](../index.md)
+
 # english-for-designers
 
 **[01: Design Manifesto](01-design-manifesto)**
