@@ -1,4 +1,5 @@
-[Home](../index.md)
+<a href="README.md">Home</a>
+
 # Inspirational Designers 
 
 ## **[@uxgoodies (Ioana Teleanu)](https://www.instagram.com/uxgoodies/)**  
