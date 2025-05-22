@@ -1,3 +1,21 @@
+### Jump to Sections
+
+#### Final Version
+- [How easy is it to create a logo](#how-easy-is-it-to-create-a-logo-when-you-dont-even-know-who-its-for)
+- [A Turning Point](#a-turning-point)
+- [Chocolate ≠ Just Brown](#chocolate--just-brown)
+- [UX & Midjourney Battle](#ux--midjourney-battle)
+- [A Sweet Aftertaste](#a-sweet-aftertaste)
+- [Wrapping the Treats](#wrapping-the-treats)
+
+#### Second Draft Version
+- [Blending Colors and Style](#blending-colors-and-style)
+- [Serving the E-shop Experience](#serving-the-e-shop-experience)
+- [Wrapping the Treats](#wrapping-the-treats-1)
+- [A Sweet Aftertaste](#a-sweet-aftertaste-1)
+- [Finding the Right Flavor](#finding-the-right-flavor)
+- [The Signature Mark](#the-signature-mark)
+
 
 # Nugátovník: It Started with a Logo
 *Hi, I’m Alexandra Kruk — and this story started with a small logo task that turned into a full branding journey. It’s about design, of course, but also about understanding the people behind the brand and learning through the process.*
