@@ -1,4 +1,4 @@
-[Prezentace.pdf](https://github.com/user-attachments/files/20213726/Prezentace.pdf)
+
 # Practicing Consistency  
 Alex Kruk, UX/UI Designer
 
