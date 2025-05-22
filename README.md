@@ -10,16 +10,12 @@
 - [About](02-first-impressions/about.md)
 - [Process](02-first-impressions/process.md)
 
-**[03: First Impressions](Case Studies)**
-## 📚 Case Studies
+**[03: Case Study](Case_study.md)**
+- [Nugátovník: It Started with a Logo](Case_study.md)
 
-- [Nugátovník: It Started with a Logo](./Case_study.md)
+**[04: Storytelling](storytelling.md)**
+- [Why Design Is Like Chocolate](storytelling.md)
 
-## ✍️ Storytelling
-
-- [Why Design Is Like Chocolate](./storytelling.md)
-
-## 📄 Presentation PDFs
-
-- [First Impression (PDF)](./First%20impression.pdf)
-- [Practicing Consistency (PDF)](./Practicing-Consistency.pdf)
+**[05: Presentation PDFs](upload)**
+- [First Impression (PDF)](First%20impression.pdf)
+- [Practicing Consistency (PDF)](Practicing-Consistency.pdf)
