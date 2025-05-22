@@ -17,5 +17,5 @@
 - [Practicing Consistency](storytelling.md)
 
 **[05: Presentation PDFs](upload)**
-- [First Impression (PDF)](First%20impression.pdf)
-- [Practicing Consistency (PDF)](Practicing-Consistency.pdf)
+- [First Impression (PDF)](upload/First%20impression.pdf)
+- [Practicing Consistency (PDF)](upload/Practicing-Consistency.pdf)
