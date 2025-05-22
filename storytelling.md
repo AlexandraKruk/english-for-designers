@@ -1,4 +1,6 @@
 <a href="README.md">Home</a>
+
+
 [Practicing-Consistency.pdf](https://github.com/user-attachments/files/20393736/Practicing-Consistency.pdf)
 
 # Practicing Consistency  
