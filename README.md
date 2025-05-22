@@ -9,6 +9,8 @@
 - [Digital Hi](https://github.com/AlexandraKruk/english-for-designers/blob/main/02-first-impressions/Digital%20Hi.md)
 - [About](02-first-impressions/about.md)
 - [Process](02-first-impressions/process.md)
+
+**[03: First Impressions](Case Studies)**
 ## 📚 Case Studies
 
 - [Nugátovník: It Started with a Logo](./Case_study.md)
