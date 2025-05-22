@@ -1,3 +1,4 @@
+[Uploading Practicing-Consistency.pdf…]()
 
 # Practicing Consistency  
 Alex Kruk, UX/UI Designer
