@@ -14,7 +14,7 @@
 - [Nugátovník: It Started with a Logo](Case_study.md)
 
 **[04: Storytelling](storytelling.md)**
-- [Why Design Is Like Chocolate](storytelling.md)
+- [Practicing Consistency](storytelling.md)
 
 **[05: Presentation PDFs](upload)**
 - [First Impression (PDF)](First%20impression.pdf)
