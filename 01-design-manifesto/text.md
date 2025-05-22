@@ -1,3 +1,4 @@
+[design-manifesto.pdf](https://github.com/user-attachments/files/20393218/design-manifesto.pdf)
 # Design manifesto
 ## My thoughts about design
 ### 1. Brand Perspective
